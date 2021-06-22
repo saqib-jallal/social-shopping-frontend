@@ -1,0 +1,56 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#host {
+  background: url("../img/host.jpg") no-repeat center center;
+  background-size: cover;
+  height: 600px;
+}
+#guest1 {
+  background: url("../img/guest1.jpg") no-repeat center center;
+  background-size: cover;
+  height: 150px;
+  padding: 5px;
+}
+#guest2 {
+  background: url("../img/guest2.jpg") no-repeat center center;
+  background-size: cover;
+  height: 150px;
+  padding: 5px;
+}
+#guest3 {
+  background: url("../img/guest3.jpg") no-repeat center center;
+  background-size: cover;
+  height: 150px;
+  padding: 5px;
+}
+#guest4 {
+  background: url("../img/guest4.jpg") no-repeat center center;
+  background-size: cover;
+  height: 150px;
+  padding: 5px;
+}
+
+.row {
+  border: 2px solid red;
+  margin: 5px;
+}
+
+.col {
+  border: 2px solid blue;
+}
+
+.container {
+  margin: auto;
+}
+
+#col-2-margin {
+  margin-bottom: 30px;
+}
+
+#utility-buttons button {
+  height: 50px;
+}
